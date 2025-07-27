@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Devran Şeker</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" style="width:300px; height:300px; object-fit: contain;" />
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="width:300px; height:300px; object-fit: contain;" />
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="width:300px; height:300px; object-fit: contain;" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" style="width:150px; height:150px; object-fit: contain;" />
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="width:150px; height:150px; object-fit: contain;" />
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="width:150px; height:150px; object-fit: contain;" />
 </div>
 
 
