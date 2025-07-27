@@ -1,3 +1,5 @@
+![MasterHead] (https://www.canva.com/design/DAGuShbWagw/WgcM4mCcS2BGAQ6G5XDsZA/watch)
+
 <h1 align="center">Hi 👋, I'm Devran Şeker</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
