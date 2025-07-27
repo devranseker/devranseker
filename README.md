@@ -21,8 +21,6 @@
 - 📫 How to reach me **devran.sekerr.25@gmail.com**
 
 
-| 🔭 I’m currently working on **.NET** <br> 🌱 I’m currently learning **AI developer and Cybersecurity** <br> 📝 I regularly write articles on [https://www.helebioku.com/](https://www.helebioku.com/) <br> 💬 Ask me about **.NET, Artificial Intelligence developer and Cyber Security** <br> 📫 How to reach me **devran.sekerr.25@gmail.com** |                                                                                                 |
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/devranseker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devranseker" height="30" width="40" /></a>
