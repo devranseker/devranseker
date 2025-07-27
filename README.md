@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm Devran Şeker</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-<p align="center" style="display: flex; justify-content: center; gap: 16px;">
+<p align="center" style="display: flex; justify-content: center; gap: 16px; align-items: center;">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" style="width:300px; height:300px; object-fit: contain;" />
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="width:300px; height:300px; object-fit: contain;" />
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="width:300px; height:300px; object-fit: contain;" />
 </p>
-
 
 
 - 🔭 I’m currently working on **.NET**
