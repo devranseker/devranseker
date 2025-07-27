@@ -1,4 +1,4 @@
-![MasterHead] (https://www.canva.com/design/DAGuShbWagw/WgcM4mCcS2BGAQ6G5XDsZA/watch)
+![MasterHead] (https://media.licdn.com/dms/image/v2/D4D16AQGF6ML2Iq9kow/profile-displaybackgroundimage-shrink_350_1400/B4DZhIVUeBHAAY-/0/1753560206222?e=1756339200&v=beta&t=Anv1GFSLpG--a8MOmAPPUz10txlmr2rskEaq1pkpM9M)
 
 <h1 align="center">Hi 👋, I'm Devran Şeker</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
