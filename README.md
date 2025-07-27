@@ -3,10 +3,11 @@
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" style="width:230px; height:230px; object-fit: contain;" />
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="width:230px; height:230px; object-fit: contain;" />
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="width:230px; height:230px; object-fit: contain;" />
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" style="width:250px; height:250px; object-fit: contain;" />
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="width:250px; height:250px; object-fit: contain;" />
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="width:250px; height:250px; object-fit: contain;" />
 </div>
+
 
 
 
