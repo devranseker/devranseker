@@ -1,13 +1,15 @@
 <u>![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEPUc0DhRMFgw/profile-displaybackgroundimage-shrink_350_1400/B4DZhSvU1BGkAY-/0/1753734795941?e=1756339200&v=beta&t=C7uH-5J3yCIzFs9fkBDJuOhwhUTYfaAJA_sX_HAu0Js)</u>
 <h1 align="center">Hi 👋, I'm Devran Şeker</h1>
 
-<h2 style="font-size: 12px; line-height: 1.4;">
+<h2 style="font-size: 9px; line-height: 1.3;">
   🧩 Karmaşık problemleri yazılımla çözmeyi seven bir geliştiriciyim.<br>
   📊 Veri analitiği ve yapay zekaya özel bir ilgim var; kullanıcı deneyimini iyileştiren akıllı çözümler üretmeye odaklanıyorum.<br>
   🔐 Boş zamanlarımda büyük dil modelleri (LLM) geliştiriyor ve siber güvenlik odaklı, güvenli yazılım çözümleri üzerine çalışıyorum.<br>
   🤝 Açık kaynak projelere katkı sağlamayı, yazılım topluluklarıyla etkileşim kurmayı ve sürekli öğrenmeyi seviyorum.<br>
   💡 Yazılım, benim için yalnızca bir meslek değil; sürekli gelişen, paylaşan ve ilham veren bir yolculuk.
 </h2>
+
+
 
 
 
