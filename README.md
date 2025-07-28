@@ -1,6 +1,12 @@
 <u>![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEPUc0DhRMFgw/profile-displaybackgroundimage-shrink_350_1400/B4DZhSvU1BGkAY-/0/1753734795941?e=1756339200&v=beta&t=C7uH-5J3yCIzFs9fkBDJuOhwhUTYfaAJA_sX_HAu0Js)</u>
 
 <h1 align="center">Hi 👋, I'm Devran Şeker</h1>
+<a id="user-content-about-me" class="anchor" aria-label="Permalink: 🌐 About Me" href="#about-me" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 4px;">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" fill="currentColor" >
+    <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+  </svg>
+  <span id="about-me" style="font-weight: 600; font-size: 14px;">🌐 About Me</span>
+</a>
 
 <p style="font-size: 9px; line-height: 1.4; max-width: 600px; margin: auto;">
   🧩 Karmaşık problemleri yazılımla çözmeyi seven bir geliştiriciyim.
