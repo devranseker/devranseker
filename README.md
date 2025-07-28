@@ -6,21 +6,20 @@
 
 
 <p style="font-size: 9px; line-height: 1.4; max-width: 600px; margin: auto;">
-  🧩 Karmaşık problemleri yazılımla çözmeyi seven bir geliştiriciyim.
+  🧩 I'm a developer who enjoys solving complex problems with software.
 </p>
 <p style="font-size: 9px; line-height: 1.4; max-width: 600px; margin: auto;">
-  📊 Veri analitiği ve yapay zekaya özel bir ilgim var; kullanıcı deneyimini iyileştiren akıllı çözümler üretmeye odaklanıyorum.
+  📊 I have a special interest in data analytics and artificial intelligence; I focus on building smart solutions that enhance user experience.
 </p>
 <p style="font-size: 9px; line-height: 1.4; max-width: 600px; margin: auto;">
-  🔐 Boş zamanlarımda büyük dil modelleri (LLM) geliştiriyor ve siber güvenlik odaklı, güvenli yazılım çözümleri üzerine çalışıyorum.
+  🔐 In my spare time, I develop large language models (LLMs) and work on secure software solutions with a focus on cybersecurity.
 </p>
 <p style="font-size: 9px; line-height: 1.4; max-width: 600px; margin: auto;">
-  🤝 Açık kaynak projelere katkı sağlamayı, yazılım topluluklarıyla etkileşim kurmayı ve sürekli öğrenmeyi seviyorum.
+  🤝 I enjoy contributing to open-source projects, engaging with developer communities, and continuous learning.
 </p>
 <p style="font-size: 9px; line-height: 1.4; max-width: 600px; margin: auto;">
-  💡 Yazılım, benim için yalnızca bir meslek değil; sürekli gelişen, paylaşan ve ilham veren bir yolculuk.
+  💡 For me, software is not just a profession; it's an ever-evolving journey of sharing, growth, and inspiration.
 </p>
-
 
 
 
