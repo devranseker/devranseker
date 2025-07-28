@@ -1,12 +1,8 @@
 <u>![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEPUc0DhRMFgw/profile-displaybackgroundimage-shrink_350_1400/B4DZhSvU1BGkAY-/0/1753734795941?e=1756339200&v=beta&t=C7uH-5J3yCIzFs9fkBDJuOhwhUTYfaAJA_sX_HAu0Js)</u>
 
 <h1 align="center">Hi 👋, I'm Devran Şeker</h1>
-<a id="about-me" class="about-me-container" href="#about-me" style="text-decoration: none; color: white; display: inline-flex; align-items: center; gap: 8px; font-weight: 600; font-size: 14px;">
-  <svg viewBox="0 0 16 16" width="16" height="16" fill="#1f6feb" aria-hidden="true">
-    <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"/>
-  </svg>
-  🌐 About Me
-</a>
+## 🌐 About Me <a id="user-content--about-me" href="#-about-me" aria-label="Permalink: 🌐 About Me"><svg class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+
 
 
 <p style="font-size: 9px; line-height: 1.4; max-width: 600px; margin: auto;">
